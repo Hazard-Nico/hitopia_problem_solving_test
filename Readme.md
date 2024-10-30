@@ -88,7 +88,3 @@ Explanation: Among the possible palindromes obtained, the highest palindrome is 
 ## Contributing
 
 This repository is public and contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
